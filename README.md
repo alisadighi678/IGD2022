@@ -1,6 +1,16 @@
 # InventionTime
 
-IGD Project
+
+IGD Project by:
+
+Maximilian Wetzel	7070954
+Benjamin Eder		7512086
+Ali Sadighi Dizaji	7581851
+Simon Oelgeschläger	6930356
+
+
+
+
 
 ## Getting started
 
